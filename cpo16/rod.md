@@ -12,7 +12,7 @@ I got hands-on experience in creating new GitHub repositories(repos), cloning ex
 
 #### GLO
 
-![GLO Globe](Glo.png)
+![GLO Globe](images/Glo.png)
 
 GLO stands for Global Logistic Overview.  I was assigned as the project lead to develop a prototype web-app to simplify the way the DoD does logistics.  My tasks included:
   - Conducting meetings with Military personnel to refine the desired outcome.
