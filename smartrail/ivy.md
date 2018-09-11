@@ -1,4 +1,4 @@
-# Welcome to the TrackingPoint_IvyBF_SW wiki!
+# Welcome to the TrackingPoint wiki!
 
 ## Introduction
 
