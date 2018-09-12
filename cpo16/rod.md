@@ -31,8 +31,8 @@
 The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.devwerx.org/)
 
 #### EDGES
-<img src="images/Edges.png" height="500" width="400">
-<img src="images/HackRF.png" height="250" width="500">
+<img src="images/Edges.png" height="300" width="250">
+<img src="images/HackRF.png" height="150" width="300">
 
    EDGES will provide a second method of navigation in the event that GPS signals get blocked.  The system will run in the background of an android device gathering any RF signals in the area, sort them based on power and frequency and correlate it with positioning data from the GPS system.  During a conflict where the enemy employs a GPS signal blocker, the warfighter will have a functional positioning system for use as needed.
 
