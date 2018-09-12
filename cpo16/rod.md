@@ -5,7 +5,7 @@
   - [Geo Package](#geo-package)
   - [GLO](#glo) (Global Logistic Overview)
   - [EDGES](#edges) (Edge Distributed Geolocation from Emitting Systems)
-  - Weekly Reports
+  - [Weekly Reports](#weekly-reports)
 
 #### GitHub Now
 
@@ -23,12 +23,14 @@
   -  Conducting meetings with Military personnel to refine the desired outcome.
   -  Manage remote coders to meet time requirements.
   -  Demonstrate Prototype:
-   * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
-   * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
-   * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
-   * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
+    * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
+    * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
+    * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
+    * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
 
-The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.devwerx.org/)
+The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.devwerx.org/).
+
+The project can be found at this public [GitHub repo](https://github.com/sofwerx/glo).
 
 #### EDGES
 <img src="images/Edges.png" height="400" width="300"> <img src="images/HackRF.png" height="200" width="400">
@@ -38,4 +40,12 @@ The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.dev
    My tasks included:
   -  Developing Data Structures so the project stored the required data in the appropriate format.
   -  Editing the sweep function to work correctly from an android environment.
-  -  Testing the prototype.
+  -  Field-testing the prototype.
+
+#### Weekly Reports
+
+   September
+  -  Week 2
+    *  Debugging HackRFSweep in the HackRFNative app.
+    *  Modified devops environment [README](https://github.com/sofwerx/swx-devops) on GitHub.
+    *  Generated my [Weekly Report File](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod.md) on GitHub.
