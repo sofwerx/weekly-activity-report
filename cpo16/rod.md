@@ -2,17 +2,24 @@
 
 ### Legend
   - [GitHub](#github-now)
-  - [Geo Package](#geo-package)
+  - [Docker](#docker)
+  - [GeoPackage](#geopackage)
   - [GLO](#glo) (Global Logistic Overview)
   - [EDGES](#edges) (Edge Distributed Geolocation from Emitting Systems)
   - [Weekly Reports](#weekly-reports)
 
 #### GitHub Now
 
-   I got hands-on experience in creating new GitHub repositories(repos), cloning existing repos and learned how to interact with GitHub in a group environment with multiple contributors.  I was able to generate documentation in the from of README.md files to describe projects and reviewed existing README.md files to add portions according to my contribution.  I was taught the SOFWERX standard for Forking repos to create my version and the process of submitting Pull Requests to have my changes incorporated in the main branch of a project.  I am comfortable going forward and using Git effectively as a collaboration tool to simplify the effort and track tasks as they get accomplished.
+   I got hands-on experience in creating new [GitHub](https://github.com/) repositories(repos), cloning existing repos and learned how to interact with GitHub in a group environment with multiple contributors.  I was able to generate documentation in the from of README.md files to describe projects and reviewed existing README.md files to add portions according to my contribution.  I was taught the SOFWERX standard for Forking repos to create my version and the process of submitting Pull Requests to have my changes incorporated in the main branch of a project.  I am comfortable going forward and using Git effectively as a collaboration tool to simplify the effort and track tasks as they get accomplished.
 
-#### Geo Package
+#### Docker
 
+   I got hands-on experience with creating [Docker](https://www.docker.com/) container to run self contained environment.  This allows a project to be built to run on any machine without the need to modify the host.  The container has all the necessary dependencies to make the project run without having to install or change versions of anything on the host machine.
+
+#### GeoPackage
+
+   I got hands-on experience with [GeoPackages](http://www.geopackage.org/).  This included created new ones, modifying the database of existing ones and created new elements, paths and objects for GeoPackages.
+   
 #### GLO
 
 ![GLO Globe](images/Glo.png)
