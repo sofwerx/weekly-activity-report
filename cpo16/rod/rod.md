@@ -6,7 +6,7 @@
   - [GeoPackage](#geopackage)
   - [GLO](#glo) (Global Logistic Overview)
   - [EDGES](#edges) (Edge Distributed Geolocation from Emitting Systems)
-  - [Weekly Reports](#weekly-reports)
+  - [Weekly Reports](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod/week1.md)
 
 #### GitHub Now
 
@@ -30,10 +30,10 @@
   -  Conducting meetings with Military personnel to refine the desired outcome.
   -  Manage remote coders to meet time requirements.
   -  Demonstrate Prototype:
-    * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
-    * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
-    * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
-    * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
+      * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
+      * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
+      * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
+      * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
 
 The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.devwerx.org/).
 
@@ -49,10 +49,3 @@ The project can be found at this public [GitHub repo](https://github.com/sofwerx
   -  Editing the sweep function to work correctly from an android environment.
   -  Field-testing the prototype.
 
-#### Weekly Reports
-
-   September
-  -  Week 2
-    *  Debugging HackRFSweep in the HackRFNative app.
-    *  Modified devops environment [README](https://github.com/sofwerx/swx-devops) on GitHub.
-    *  Generated my [Weekly Report File](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod.md) on GitHub.
