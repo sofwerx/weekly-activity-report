@@ -54,4 +54,27 @@ So far, the biggest problem with stabilizing the tracking function of the Tracki
 
 ## Ballistic Rail Meeting 9/7/2018
 
-Met with David Akers, Matt Cohen of Space Coast Unmanned and Mujahid Abdulrahim. This meeting was held to discuss the progress of the Ballistic Rail. Microcontroller options, and RF communications were discussed, as well as the transition of the project from this intern's purvey to Unmanned Drone.
+Met with David Akers, Matt Colvin of Space Coast Unmanned and Mujahid Abdulrahim. This meeting was held to discuss the progress of the Ballistic Rail. Microcontroller options, and RF communications were discussed, as well as the transition of the project from this intern's purvey to Unmanned Drone.
+
+
+### Software/Electronics Week 2
+* Explored the smartrailctrl repo and the ROS package associated with that
+
+* Compared Odroid XU4 with the NVIDIA Jetson Tx2 in terms of speed, range, and modularity
+
+* Practiced some possible vision algorithms in C++
+
+## Remarks
+
+The NVIDIA Jetson Tx2 has some pretty nifty features associated with it. It is fast, it is a lightweight architecture, it is designed for the kind of action-based environment Smart Rail may see. It is exciting to learn about its [Pascal](https://www.nvidia.com/en-us/data-center/pascal-gpu-architecture/) architecture, its 256 CUDA Cores. But the Odroid XU4 performs well, too, with a processor running a Samsung Exynos5 Octa ARM Cortex, an A15 Quad 2GHz and Cortex, or A7 Quad 1.3Ghz CPU. The ARM Mali T628 in the Odroid, with its [scalability](https://wiki.odroid.com/odroid-xu4/hardware/hardware#specifications) and high processing power are cost-effective options, both in space, speed, and money. While this is ultimately not my decision, choosing a microcontroller seemed like a nice way to spend a Tuesday
+### Mechanical Week 2
+* Redesigned jig to hold TrackingPoint to gimbal
+
+* Decided on additive manufacturing instead of machining to save on overall weight(gimbal can only support 6.5kg)
+
+### Miscellanious Week 2
+* Prepared inventory for project transition from Sofwerx intern-handling to Space Coast Unmanned
+
+* Collected Movi parts from around various depths of Sofwerx facillities
+
+* Learned about perplexity, an ML metric for deciding how _good_ a data set is at transitioning from a higher to lower dimension. This statistic is also linked to cross-entropy, or the lossy characteristic of data. This characteristic is the average number of bits _needed_ to represent one data set (or distribution) in reference to another. While perplexity is typically found in examining the decomposition and recomposition of 3D shapes like [knots](https://distill.pub/2016/misread-tsne/), or [natural language processing](http://www.cs.cmu.edu/~roni/11761/PreviousYearsHandouts/gauntlet.pdf) analyzed by T-distributed stochastic neighbor embedding or [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) NVIDIA cites a perplexity of 34 in reference to their Volta processing power, and I wanted to know more. 
