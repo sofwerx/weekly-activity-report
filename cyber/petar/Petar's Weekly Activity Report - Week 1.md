@@ -1,4 +1,4 @@
-# Petar's Weekly Activity Report - Week 1
+# Petar's Weekly Activity Report - Week 2  (Sep. 14, 2018)
 ### Legend
 - [Objective](#objective)
 - [Work I Did](#work-i-did)
@@ -8,35 +8,27 @@
 
 ### Big Three
 
-- Researched and concluded ML threat assement of keylogs is currently not a viable project
+- Researched and identify RF Signal classification algorithms, papers and methods.
 
-- Assigned to lead Torgi support project, Geo-Spatial Anomaly Detection(G.A.D.)
+- Identify methods for generating datasets and examine overall data from implemented classification methods.
 
-- Started data summarization for GAD
+- Review possible methods for varying developed classification methods
 
 ### Objective
 
-Determine achievability  of ML Threat Assmesment Observation Tools
+Develop or implement a technology which scans and classifies radio frequencies depending on the patterns and characteristics of the signal passed through them.
 
 ### Work I Did
 
-Used Research Methods for NLP,NLA, Threat Profiling and ML for text based analysis.
+Reviewed variety of sources concerning the main objective. Analized implementation methods for all potential solutions found and their significant toward defining the overall goal. Begin brainstorming of potential data collection methods and pattern identification techniques.
 
 
 ### Meetings
  - Weekly Friday Review meeting with David
 
 
-### Summary:
-
-- Researched and concluded ML threat assement of keylogs is currently not a viable project
-
-- Assigned to lead G.A.D.( Geo-Spatial Anomaly Detection) with a team of RDI's(Remote DataSci Interns) under the supervision
-of David. G.A.D will be used to achieve a  distinction between normal, signal loss, and anomalies within geo-spatial data packets. Potential use will be to determine forged data(spoofed).
-
-- Started  process of Data summarization for G.A.D.
-
-
 ### Follow up
 
-- Organize team RDIs and set new objectives within ASANA
+- Organize ASANA team objectives
+- Established a general team communication
+
