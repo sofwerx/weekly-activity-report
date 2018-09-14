@@ -1,18 +1,17 @@
-# Petar's Weekly Activity Report - Week 2  (Sep. 14, 2018)
+# Petar's Weekly Activity Report - Week 1  (Sep. 7, 2018)
 ### Legend
 - [Objective](#objective)
 - [Work I Did](#work-i-did)
 - [Meetings](#meetings)
-- [Summary](#summary)
 - [Follow up](#follow-up)
 
 ### Big Three
 
-- Researched and identify RF Signal classification algorithms, papers and methods.
+- Digest the Edges Dataset and review possible ways of presenting the information thats available within it.
 
-- Identify methods for generating datasets and examine overall data from implemented classification methods.
+- Visualize and summarize the important segments of the Edges Dataset.
 
-- Review possible methods for varying developed classification methods
+- Specify certain potential and possible solution which this dataset may provide a solution for and look into those solution as possible project goals.
 
 ### Objective
 
@@ -20,7 +19,7 @@ Develop or implement a technology which scans and classifies radio frequencies d
 
 ### Work I Did
 
-Reviewed variety of sources concerning the main objective. Analized implementation methods for all potential solutions found and their significant toward defining the overall goal. Begin brainstorming of potential data collection methods and pattern identification techniques.
+Familirize myself with the R language and begin summarizing the given data through identefying the given characteristics of each specific segment of the data. Implement a visualization technique which summarizes the overall data in a easy to understand model which present all the vital aspects, frequency, power, latitude and longitude.
 
 
 ### Meetings
@@ -29,6 +28,6 @@ Reviewed variety of sources concerning the main objective. Analized implementati
 
 ### Follow up
 
-- Organize ASANA team objectives
-- Established a general team communication
+- Determine if the data can be classified.
+- Continue researching what potential similar data set may offer.
 
