@@ -1,5 +1,5 @@
 Week 2
-
+   -  #### 6 September, 7 September
       *  Created Splunk container using Docker for EDGES data visualization. [NERD-64]
       *  Created a script to parse EDGES data. [NERD-65]
       *  Started data visualizations for Splunk. [NERD-64]
