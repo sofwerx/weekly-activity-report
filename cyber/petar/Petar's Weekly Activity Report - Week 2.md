@@ -32,4 +32,3 @@ Reviewed variety of sources concerning the main objective. Analized implementati
 - Organize ASANA team objectives
 - Established a general team communication
 
-a
