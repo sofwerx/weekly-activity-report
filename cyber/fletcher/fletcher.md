@@ -1,5 +1,5 @@
-Week of Friday Sep. 14 2018
-# Fletcher's Weekly Activity Report - Week 1
+Week 1
+# Fletcher's Weekly Activity Report - Friday Sep. 14 2018
 ### Legend
  - [Objective](#objective)
  - [Work I Did](#work-i-did)
