@@ -4,6 +4,7 @@
 - [Work I Did](#work-i-did)
 - [Meetings](#meetings)
 - [Follow up](#follow-up)
+- [References](#references)
 
 ### Big Three
 
@@ -30,4 +31,8 @@ Familirize myself with the R language and begin summarizing the given data throu
 
 - Determine if the data can be classified.
 - Continue researching what potential similar data set may offer.
+
+### References
+Jupyter Notebook Visual and Summary - https://jupyterhub.minsky.devwerx.org:9443/user/peteis/notebooks/Untitled.ipynb
+
 
