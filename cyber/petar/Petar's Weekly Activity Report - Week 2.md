@@ -33,5 +33,5 @@ Reviewed variety of sources concerning the main objective. Analized implementati
 - Established a general team communication
 
 ### References
-White Paper covering "Over the Air Deep Learning RF" - https://arxiv.org/pdf/1712.04578.pdf 
-Github Repository covering RF data gathering and model training Technique - https://github.com/radioML/dockerRML 
+- White Paper covering "Over the Air Deep Learning RF" - https://arxiv.org/pdf/1712.04578.pdf 
+- Github Repository covering RF data gathering and model training Technique - https://github.com/radioML/dockerRML 
