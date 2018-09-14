@@ -30,10 +30,10 @@
   -  Conducting meetings with Military personnel to refine the desired outcome.
   -  Manage remote coders to meet time requirements.
   -  Demonstrate Prototype:
-    * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
-    * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
-    * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
-    * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
+   * At [SOFIC](http://exhibits.ndia.org/sofic2018/Public/Enter.aspx)
+   * At [USSOCOM](https://www.socom.mil/) headquarters on MacDill AFB
+   * At [SOFWERX](https://www.sofwerx.org/) during tours and for possible contributors
+   * To [General Thomas](https://dod.defense.gov/About/Biographies/Biography-View/Article/709270/general-raymond-a-thomas-iii/) (USSOCOM Commanding General) directly.
 
 The prototype is online for interaction at [Glo Demo](http://glo-demo.vmhost.devwerx.org/).
 
@@ -53,6 +53,6 @@ The project can be found at this public [GitHub repo](https://github.com/sofwerx
 
    September
   -  Week 2
-    *  Debugging HackRFSweep in the HackRFNative app.
-    *  Modified devops environment [README](https://github.com/sofwerx/swx-devops) on GitHub.
-    *  Generated my [Weekly Report File](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod.md) on GitHub.
+   *  Debugging HackRFSweep in the HackRFNative app.
+   *  Modified devops environment [README](https://github.com/sofwerx/swx-devops) on GitHub.
+   *  Generated my [Weekly Report File](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod.md) on GitHub.
