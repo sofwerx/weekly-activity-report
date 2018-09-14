@@ -1,6 +1,6 @@
-## Week 1
+## Week 1 Report
 
-   -  ####23 August, 24 August
+   -  #### 23 August, 24 August
       *  Started at SOFWERX.
       *  Talked to team and close by teams about current projects.
       *  Received laptop and started the installation process.
