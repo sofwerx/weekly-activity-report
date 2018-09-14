@@ -4,6 +4,7 @@
 - [Work I Did](#work-i-did)
 - [Meetings](#meetings)
 - [Follow up](#follow-up)
+- [References](#references)
 
 ### Big Three
 
@@ -31,3 +32,6 @@ Reviewed variety of sources concerning the main objective. Analized implementati
 - Organize ASANA team objectives
 - Established a general team communication
 
+### References
+White Paper covering "Over the Air Deep Learning RF" - https://arxiv.org/pdf/1712.04578.pdf 
+Github Repository covering RF data gathering and model training Technique - https://github.com/radioML/dockerRML 
