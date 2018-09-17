@@ -1,0 +1,27 @@
+# Austin's Weekly Activity Report - Week 2
+### Legend
+ - [Objective](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Follow up](#follow-up)
+ - [Log](#log)
+
+### Objective
+ - Fix HDD
+ - Finish SNIPE-IT inventory
+
+### Work I Did
+ - Worked on SNIPE-IT updating newly imported assets
+  - Wireless access points
+  - Switches
+ - Swap PCB on HDD
+ - Troubleshoot Small Auditorium Presentation
+ -
+
+### Meetings
+N/A
+### Follow up
+N/A
+### Log
+  - Missing one Wireless access point, unable to find
+  - Need to double check names of access points across router, ovrc, and the device itself
