@@ -13,6 +13,7 @@
 ### Work I Did
  - Worked on SNIPE-IT updating newly imported assets
   - Wireless access points
+    - Check names to standardize across ovrc, router, and device
   - Switches
  - Swap PCB on HDD
  - Troubleshoot Small Auditorium Presentation
@@ -24,4 +25,3 @@ N/A
 N/A
 ### Log
   - Missing one Wireless access point, unable to find
-  - Need to double check names of access points across router, ovrc, and the device itself
