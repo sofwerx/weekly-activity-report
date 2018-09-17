@@ -17,7 +17,7 @@
   - Switches
  - Swap PCB on HDD
  - Troubleshoot Small Auditorium Presentation
- -
+
 
 ### Meetings
 N/A
