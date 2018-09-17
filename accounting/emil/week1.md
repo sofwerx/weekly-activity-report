@@ -14,7 +14,7 @@ Week 1
 
 
 ### Work I Did
-
+ - Leanred how to Fork & Pull on GitHUb
 
 ### Meetings
 
