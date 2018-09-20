@@ -1,37 +1,25 @@
 # Jet's Weekly Activity Report - Week 2  (Sep. 17, 2018)
 ### Legend
 - [Objective](#objective)
-- [Work I Did](#work-i-did)
-- [Meetings](#meetings)
-- [Follow up](#follow-up)
+- [Big Three](#big-three)
+- [Next Steps](#next-steps)
 - [References](#references)
-
-### Big Three
-
-- Researched and identify RF Signal classification algorithms, papers and methods.
-
-- Identify methods for generating datasets and examine overall data from implemented classification methods.
-
-- Review possible methods for varying developed classification methods
 
 ### Objective
 
-Develop or implement a technology which scans and classifies radio frequencies depending on the patterns and characteristics of the signal passed through them.
+Finish testing all mechanical components of the board (fog machine, smoke stack, roller, etc.) and print all 3D models.
 
-### Work I Did
+### Big Three
 
-Reviewed variety of sources concerning the main objective. Analized implementation methods for all potential solutions found and their significant toward defining the overall goal. Begin brainstorming of potential data collection methods and pattern identification techniques.
+- Tested and operational fog machine, smoke stack, and roller
+- All 3D models printed 
+- Wiring diagram has been layed out 
 
+### Next Steps
 
-### Meetings
- - Weekly Friday Review meeting with David
-
-
-### Follow up
-
-- Organize ASANA team objectives
-- Established a general team communication
+- Complete water drainage system
+- Complete water treatment plant effect
+- Wire all components to relays and Raspberry Pi's
+- Wire lighting of city
 
 ### References
-- White Paper covering "Over the Air Deep Learning RF" - https://arxiv.org/pdf/1712.04578.pdf 
-- Github Repository covering RF data gathering and model training Technique - https://github.com/radioML/dockerRML 
