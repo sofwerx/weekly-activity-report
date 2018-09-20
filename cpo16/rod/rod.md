@@ -6,7 +6,7 @@
   - [GeoPackage](#geopackage)
   - [GLO](#glo) (Global Logistic Overview)
   - [EDGES](#edges) (Edge Distributed Geolocation from Emitting Systems)
-  - [Weekly Reports](https://github.com/sofwerx/weekly-activity-report/blob/master/cpo16/rod/week1.md)
+  - [Weekly Reports](week_current.md)
 
 #### GitHub Now
 
