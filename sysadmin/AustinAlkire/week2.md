@@ -14,10 +14,12 @@
  - Worked on SNIPE-IT updating newly imported assets
   - Wireless access points
     - Check names to standardize across ovrc, router, and device
-  - Switches
  - Swap PCB on HDD
  - Troubleshoot Small Auditorium Presentation
  - Help interns with Calendar
+ - Fix TVs
+ - Organize closet
+ - Assist Nick in locating items for inventory
 
 ### Meetings
 N/A
