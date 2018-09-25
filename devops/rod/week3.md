@@ -1,23 +1,24 @@
 ## Weekly Report
 
-   -  #### September Week 3
-      *  Debugging HackRFSweep in the HackRFNative app.
-      *  Converting HackRFSweep tool to library function to use with Android app.
-      *  Working with Jira to get familiar with the program to assist in Agile planning and execution.
-      *  Updated my [Weekly Report File](rod.md) on GitHub.
+### September Week 3
 
-   ### Objectives
+      *  Assisted in spinning up the Docker Cluster using the 4 shuttlex boxes.
+      *  Researched RF software to run different SDRs (Software Defined Radios).
+      *  Working with Jira to get familiar with the program to assist in
+      Agile planning and execution.
+
+### Objectives
   -  Assist Tracey in troubleshooting the HackRFSweep portion of the TORGI app.
   -  Convert HackRFSweep tool to library function to use with Android app.
-  -  Formalize Standard for Weekly Report on GitHub.
-  -  Assist in Setting up Jira for Agile development.
+  -  Get multiple SDRs running on one Laptop to deploy in Las Vegas.
 
-   ### Work I Did
+### Work I Did
   -  Assisted in spinning up the Docker Cluster using the 4 shuttlex boxes.
+  -  Researched RF software to run different SDRs (Software Defined Radios), for Tracey to
+  deploy while in Vegas working on TORGI.
 
-   ### Follow-up
-  -  Communicating with Maj Baldwin to assist path ahead for GLO
+### Follow-up
+  -  Communicating with Maj Baldwin to assist path ahead for GLO.
 
-   ### Meetings
-  -  Meeting with Maj Baldwin to determine the architecture for GLO.
-  -  Meeting with Brian and David to get updated on the QVine research of DoD logistic entities.
+### Meetings
+  -  NSTR
