@@ -14,8 +14,8 @@
 
 ### Work I Did
   -  Assisted in spinning up the Docker Cluster using the 4 shuttlex boxes.
-  -  Researched RF software to run different SDRs (Software Defined Radios), for Tracey to
-  deploy while in Vegas working on TORGI.
+  -  Researched RF software to run different SDRs (Software Defined Radios), for 
+  <br/>Tracey to deploy while in Vegas working on TORGI.
 
 ### Follow-up
   -  Communicating with Maj Baldwin to assist path ahead for GLO.
