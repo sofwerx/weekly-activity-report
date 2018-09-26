@@ -7,7 +7,7 @@
  - [Log](#log)
 
 ### Objective
- - Finish SNIPE-IT inventory
+ Finish SNIPE-IT inventory
 
 
 ### Work I Did
@@ -23,7 +23,9 @@
 - setup sonos speakers in Foundry
 - scavenger hunt for all the devices needed for inventory
 - help a user print
-
+- install APK onto phone
+- touch up, clean up, format inventory
+- Troubleshoot monitor Setup
 
 ### Meetings
 N/A
