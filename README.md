@@ -9,7 +9,7 @@
 - [cybercity](cybercity) - Cyber Smart City activities
 - [datascience](datascience) - Datascience intern activities
 - [devops](devops) - Infrastructure as code / Development and Operational activities
-- [EE](smartrail, battery) - Electric Engineering activities
+- [EE](EE) - Electric Engineering activities
 - [sysadmin](sysadmin) - Sysadmin intern activities
 
 Please see Mike Ahern if you do not have a directory that matches your scope of work. (events, datasci, etc)
