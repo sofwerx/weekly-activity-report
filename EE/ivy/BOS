@@ -1,0 +1,11 @@
+# Objectives
+* Make vehicle fully autonomous
+* Design system without redundancy
+* Use ROS so we walk away with a better understanding of it
+
+# Battery Swap Week 1
+* Juanita Graham, Project Lead, met with David Salvador, Jacob Fletcher and myself to discuss budget, theoretical deadline of December and possible routes to proceed 
+* Researched [wireless power transfer](https://patents.google.com/patent/US20140091636) in US Patents, with applications like [high frequency PCB coils](https://patents.google.com/patent/US20130069753A1/en) and [energy transfer](https://patents.google.com/patent/US20130007949A1/en) for worn peripherals
+* Looked at [class-E power amplifiers](https://en.wikipedia.org/wiki/Power_amplifier_classes#Class_E) 
+* Researched [regen braking](https://ieeexplore.ieee.org/abstract/document/5975676) and other means of [regenerative power](https://www.youtube.com/watch?v=8Gl45Ulf7Us) to potentially remove the need for a charging station
+* Met with Brigette Boody, our new intern, who will be working on a heirarchic breakdown of objectives for continuous functionality in autonomous rover
