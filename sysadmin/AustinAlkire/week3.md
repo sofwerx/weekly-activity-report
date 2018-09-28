@@ -26,6 +26,9 @@
 - install APK onto phone
 - touch up, clean up, format inventory
 - Troubleshoot monitor Setup
+- Setup Kiosk
+- Setup skull NUC
+
 
 ### Meetings
 N/A
