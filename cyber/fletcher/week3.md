@@ -8,25 +8,29 @@
 
 ### Big Three
 
-- Finalized Initial EDA Report
+- Finished Initial EDA report
 
-- Finalized Initial EDA Report
+- Analyzed Control Torgi GPKG
 
-- Finalized Initial EDA Report
+- Processed Data for analysis
 
 ### Objective
-Finish Initial EDA Report
+Provide Status update regarding SatData Analysis as specified by Tracy from previous meeting 
 
 ### Work I Did
 
-- Finalized Initial EDA Report
+- Finished Init
 
 ### Meetings
- - Weekly Friday Review meeting with David
+ - Weekly Friday DataSci Leadership Review meeting with David
+ - Weekly Meeting with RDSI on GAD
+ - Weekly meeting with Tracey of GAD 
 
 
 ### Follow up
 
 - Establish new ASANA team objectives
--
+
+- Clean and move out new Torgi data
+
 ### References
