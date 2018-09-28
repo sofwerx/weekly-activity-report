@@ -31,5 +31,5 @@ Finish all grass mats and water features on the board
 
 ### References
 
-![Putting on Left Side Grass Mat](Images/Left Side Grass.jpg)
-![Right Side Grass Mat](Images/Right Side Grass.jpg)
+![Putting on Left Side Grass Mat](Images/LeftSideGrass.jpg)
+![Right Side Grass Mat](Images/RightSideGrass.jpg)
