@@ -1,0 +1,43 @@
+#Weekly Activity Reports
+Week 1
+
+# [Ivy]'s Weekly Activity Report - Thursday, September 27, 2018
+### Legend
+ - [Objectives](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Summary](#summary)
+ - [Follow-Up](#follow-up)
+ 
+ ### Big Three
+ - Total budget decided for Battery Optimization Swap (BOS)
+ - Decided to use ROS/C++
+ - Regenerative vs wireless transfer of power
+ 
+ ### Objective
+ To design a power supply for a completely autonomous security rover. Monitoring and replacing power source is critical to functionality.
+ 
+ ### Work I Did
+ - Researched power supply methods:
+    - Redundancy of second rover
+    - Wireless power transfer using class E or A amplifier and a charging station
+    - Regen braking as a means of onboard regenerative power for continuous operation
+ - Sketched preliminary circuit elements for regen system
+ - Practiced C++
+ - Learned how to implement an insulated-gate bipolar transistor (IGBT) in simple accrued power circuits, used for solenoids or regen applications
+ - Compared IGBT to metal-oxide semiconductor field-effect transistor (MOSFET)
+ - Looked at possible bill of materials
+ 
+ ### Meetings
+ (09/14/18) Met with Project Lead Juanita Graham, David Salvador, and Jacob Fletcher to discuss budget, estimated timeline, and software/hardware goals.
+ (09/27/18) Discussed project objectives with Brigette Boody and Jacob Fletcher. Set goals for Brigette, i.e., learning C++ and becoming more familiar with SLAM and ROS.
+ 
+ ### Summary
+ This week was spent getting our bearings in the process, deciding which directions we might pursue in hardware and software.
+ 
+ ### Follow-Up
+ - Need to crash-course C++ to begin looking at autonomous vehicle software; tag-team autonomy problem with Fletcher
+ - Will also need to simulate a regen power system, or wireless transfer to finalize bill of materials
+ - Check with Brigette's flow-chart progress to address potential challenges the rover might face
+ 
+ 
