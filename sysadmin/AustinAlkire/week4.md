@@ -23,7 +23,7 @@
 - Troubleshoot bootable windows USB
 - work through laptops in laptop Lab
 - Man the sound booth during Robert Mazur's Presentation
--
+
 
 ### Meetings
 N/A
