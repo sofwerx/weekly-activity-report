@@ -10,10 +10,10 @@
   -  Convert HackRF_Sweep tool to library function to use with Android app.
 
 ### Work I Did
-  -  Optimized and combined scripts to get HackRF_Sweep and HackRF_Transfer to work in tandem.
+  -  Combined scripts to get HackRF_Sweep and HackRF_Transfer to work in tandem.
 
 ### Follow-up
   -  NSTR
 
 ### Meetings
-  -  NSTR
+  -  Interview with Howard Altman, Tampa Bay Times, covering USF's Research and Development Agreement with SOFWERX.
