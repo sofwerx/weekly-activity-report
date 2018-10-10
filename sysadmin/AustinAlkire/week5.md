@@ -21,6 +21,9 @@
 - prepare large Auditorium for presenting
 - clean up laptop lab
 - troubleshoot windows bootable USB
+- run ethernet cables for Tony and David
+- Assist mike in troubleshooting surface Pro
+- Create a user and email for Rob Cantrell
 
 
 ### Meetings
