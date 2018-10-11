@@ -1,24 +1,19 @@
 ## Weekly Report
 
-### September Week 3
+### September Week 4
 
-      *  Assisted in spinning up the Docker Cluster using the 4 shuttlex boxes.
-      *  Researched RF software to run different SDRs (Software Defined Radios).
-      *  Working with Jira to get familiar with the program to assist in
-      Agile planning and execution.
+  *  Worked wiht Ian to develop script to scan the RF spectrum, identify strongest signal and record that frequency in 10 second intervals.
+  *  
 
 ### Objectives
-  -  Assist Tracey in troubleshooting the HackRFSweep portion of the TORGI app.
-  -  Convert HackRFSweep tool to library function to use with Android app.
-  -  Get multiple SDRs running on one Laptop to deploy in Las Vegas.
+  -  Optimize HackRF code to incorporate the sweep function and transfer function together.
+  -  Convert HackRF_Sweep tool to library function to use with Android app.
 
 ### Work I Did
-  -  Assisted in spinning up the Docker Cluster using the 4 shuttlex boxes.
-  -  Researched RF software to run different SDRs (Software Defined Radios), for 
-  <br/>Tracey to deploy while in Vegas working on TORGI.
+  -  Combined scripts to get HackRF_Sweep and HackRF_Transfer to work in tandem.
 
 ### Follow-up
-  -  Communicating with Maj Baldwin to assist path ahead for GLO.
+  -  NSTR
 
 ### Meetings
-  -  NSTR
+  -  Interview with Howard Altman, Tampa Bay Times, covering USF's Research and Development Agreement with SOFWERX.
