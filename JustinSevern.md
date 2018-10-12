@@ -3,16 +3,16 @@
 ## Justin's Weekly Activity Report – Friday, October 5, 2018
 
 ### Legend
-   •	Objective
-   •	Work I Did
-   •	Meetings
-   •	Summary
-   •	Follow up
+   •	Objective  
+   •	Work I Did  
+   •	Meetings  
+   •	Summary  
+   •	Follow up  
 
 ### Big Three
-   •	Created First Iteration of a User Manual
-   •	Downloaded and Installed SDK
-   •	Solved battery and power supply problems
+   •	Created First Iteration of a User Manual  
+   •	Downloaded and Installed SDK  
+   •	Solved battery and power supply problems  
 
 ### Objective
    Create a detailed user manual for the Ghost Robotics Minitaur that includes programming and operating with new behaviors.
