@@ -1,4 +1,4 @@
-# Week #1
+# Week #2
 
 ## Justin's Weekly Activity Report – Friday, October 12, 2018
 
