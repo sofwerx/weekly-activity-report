@@ -4,7 +4,7 @@
 ## Projects
 
 - [accounting](accounting) - Accounting intern activities
-- [cpo16](cpo16) - Development activities toward GIS consensus driven standards
+- [devops](devops) - Development activities toward GIS consensus driven standards
 - [cyber](cyber) - Cyber intern activities
 - [cybercity](cybercity) - Cyber Smart City activities
 - [datascience](datascience) - Datascience intern activities
