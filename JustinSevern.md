@@ -1,37 +1,35 @@
 # Week #1
-## test
-### test1
 
-Justin's Weekly Activity Report – Friday, October 5, 2018
+## Justin's Weekly Activity Report – Friday, October 5, 2018
 
-Legend
-•	Objective
-•	Work I Did
-•	Meetings
-•	Summary
-•	Follow up
+### Legend
+  •	Objective
+  •	Work I Did
+  •	Meetings
+  •	Summary
+  •	Follow up
 
-Big Three
-•	Created First Iteration of a User Manual
-•	Downloaded and Installed SDK
-•	Solved battery and power supply problems
+### Big Three
+  •	Created First Iteration of a User Manual
+  •	Downloaded and Installed SDK
+  •	Solved battery and power supply problems
 
-Objective
-Create a detailed user manual for the Ghost Robotics Minitaur that includes programming and operating with new behaviors.
+### Objective
+  Create a detailed user manual for the Ghost Robotics Minitaur that includes programming and operating with new behaviors.
 
-Work I Did
-Describe the specific steps you took to achieve your goals for the week
+### Work I Did
+  Describe the specific steps you took to achieve your goals for the week
 
-Meetings
-•	I met with Brian to discuss battery and power supply issues, as well as setting goals for programming the Minitaur. 
+### Meetings
+  •	I met with Brian to discuss battery and power supply issues, as well as setting goals for programming the Minitaur. 
 
-Summary/Remarks:
-•	First iteration of User manual complete
-•	Learned about battery / power supply problems and programming the Minitaur
-•	Began to work on programming the Minitaur
+### Summary/Remarks:
+  •	First iteration of User manual complete
+  •	Learned about battery / power supply problems and programming the Minitaur
+  •	Began to work on programming the Minitaur
 
-Follow up
-•	Program Minitaur with SDK
-•	Add pictures to existing user manual
-•	Assist in foundry projects
+### Follow up
+  •	Program Minitaur with SDK
+  •	Add pictures to existing user manual
+  •	Assist in foundry projects
 
