@@ -8,6 +8,7 @@
 
 ### Objective
 - Install UPS into server rack
+- Smooth out transition from shared 2.4 & 5 bands into seperate SSIDs
 
 
 
@@ -16,7 +17,10 @@
 - install guest printer driver on mac
 - reconnect all smartboards to new SSIDs
 - labels in all conference rooms for network name & password
-- work  through laptop lab
+- cleared inspecting laptops from lab
+- install skull nuc onto eastthunderdronesb
+- setup computers with the new network SSIDs
+- install UPS on smartboards and Kiosk
 
 
 ### Meetings
