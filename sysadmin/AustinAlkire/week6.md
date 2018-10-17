@@ -9,6 +9,7 @@
 ### Objective
 - Install UPS into server rack
 - Smooth out transition from shared 2.4 & 5 bands into seperate SSIDs
+- Learn JIRA
 
 
 
@@ -21,7 +22,11 @@
 - install skull nuc onto eastthunderdronesb
 - setup computers with the new network SSIDs
 - install UPS on smartboards and Kiosk
-
+- fix mic settings on Open broadcast software to pick up microphones
+- label the large Auditorium mixer of sound sources
+- explore jira tutoirals
+- explore JIRA project roles and groups
+- turn off wifi on sonos speakers.
 
 ### Meetings
 N/A
