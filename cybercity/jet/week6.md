@@ -9,7 +9,7 @@ Week 6
 
 - Completed quad chart and submitted
 
-- Continued documenation on cyberville project
+- Continued documenation on Cyberville project
 
 - Compiled a list of lessons learned and project improvement recommendations from Cyberville
 
