@@ -1,0 +1,84 @@
+# Ivy's Weekly Activity Report - Thursday October 18, 2018
+
+### Legend
+ - [Objective](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Summary](#summary)
+ - [Follow up](#follow-up)
+ 
+ ### Big Three
+ - Realized I could modulate a data signal to a higher or lower frequency than a transmitted power signal to 
+ allow for simultaneous transfer, and undamaged electronics (because rapid power transfer might be harmful to personel and 
+ the behavior of onboard electronics)
+ - Designed spiral loop antenna at 13.56MHz for near-field communication (to see if I could)
+ - Looked at TrackingPoint Aerial Shotview before transitioning it to Space Coast Unmanned
+ 
+ ### Objective
+ For Battery Optimization for Unmanned Systems(BOUS):
+ * Work effectively as a team to complete documentation on bill of materials
+ * Voltage reader from TX2 using ROS:: Assigned to Fletcher
+ For SmartRail:
+ * Find Samsung tablet with TrackingPoint Aerial Shotview, share with Matt Colvin
+ * Pursue hardware outsourced to unknown company by TrackingPoint
+ For new antenna-related projects:
+ * Research X-band antennas with applications to comms at 10dB
+ Code skills:
+ * Pointers in C++
+ * 10 hour codeacademy Python course for review purposes
+ * Install 'nix subsytem for Windows
+ 
+ ### Work I did
+ For BOUS:
+ * Designed spiral loop antenna tuned to 13.56 MHz in ANSYS HFSS
+ * Completed patent research of current wireless power transfer models for near-field communication
+ * Started bill of materials for Juanita
+ * Spoke often with Merryck and Juanita about potential charging systems, as well as the need for modulated frequencies,
+ which is how we accomplished this week's first Big Three entry and Objective 1 for BOUS
+ * Referred to Balanis text a lot for gain, aperture efficiency, and radiation efficiency help
+ For SmartRail:
+ * Inventoried Samsung tablet, identified TrackingPoint Aerial Shotview APK and forwarded those materials to Matt Colvin
+ For new antenna projects:
+ * 10dB with >90deg is very difficult to achieve, but the design process is definitely a worthwhile use of time
+ For Code Skills:
+ * Installed bash for 'nix subsystem (partly for my own functionality, as my laptop is about as powerful as a desktop with an Intel i5 core,
+ and running a workstation is almost feasible even without a cluster as long as I stay away from ML stuff for the most part) tp transition 
+ primary software development from Fletcher to me, as he has to take on several new projects and might not have time to help out as much
+ * Began codeacademy's python course for review purposes
+ * Programmed a min/max and range calculator based on input data in C++ (I did this last Friday after meeting with Juanita)
+ 
+ ### Meetings 
+ 10/12/18 Matt Colvin came to pick up SmartRail materials (i.e. tablet, controller)
+ 10/16/18 Shared idea about frequency modulation with Juanita and Merryck, this idea will allow us to pursue regen power
+ 10/18/18 Met with Fletcher to discuss EB3 and ROS voltage checker, and the means to purchase EB3, RPi on a hat??; Fletcher will be transitioning into
+ and assistive position on this project as he takes on several new efforts. This will likely push Merryck, Birdgette and I to use and hone our programming 
+ literacy through practical application! 
+ 10/18/18 Met with Bridgette, who will be focusing on becoming our team's ROS czar
+ 
+ ### Summary/Remarks
+ * This week was focused on design for scenario-specific power transfer, i.e., not in panic mode, nonautonomous charging. 
+ Renewal is critical here, but even the most autonomous of systems will rely on some element of user input. While damaging the electronics
+ was a concern for me, I no longer feel it is as risky.
+ * Being able to think through the process with Juanita, Merryck, and my weekly entries have been invaluable.
+ * I feel that I am incredibly behind in code literacy. This is a concern for me, because my aspirations are beyond my current skillset, 
+ and I feel that I will not be able to assimilate into the Sofwerx community, or any other ideal workplace environment. But David Salvador 
+ had some reassuring things to say about that on 10/17/18, so I am somewhat reassured.
+ 
+ ### Follow-up
+ For SmartRail:
+ * Reconnect with SmartRail effort to see the safe and efficient transition of hardware from 
+ third-party to Spacecoast Unmanned 
+ For BOUS:
+ * Complete parts list with notes/corrections from Juanita, review with Merryck, then order parts
+ * Possible PCB design in Eagle
+ * Locate personal breadboard and begin physical design of stage 1 design
+ * Check Bridgett's progress with ROS/C++; flow of control analogy
+ For new antenna project:
+ * Ask David Akers for a possible formal project description of objective for my own documentation
+ Code Skills:
+ * Finish python review with application to machine learning and google datasets
+ * Review bash commands
+ 
+ 
+ 
+ 
