@@ -1,4 +1,4 @@
-Week 5
+Week 1
 # Bridgettes's Weekly Activity Report - Thursday Oct. 25 2018
 ### Legend
  - [Objective](#objective)
@@ -8,28 +8,27 @@ Week 5
 
 ### Big Three
 
-- Collected Weekly Activity Report information
+- Learned how to use github
 
-- Created tables and edited information for the annual report
+- Collected War information for all interns
 
-- Continued documentation processes by detailing resources used and actions taken in the Drone project
+- Continued learning about the BOUS and ROS systems
 
 ### Objective
 
-Utilize technical writing skills to meet various needs within SOFWERX
+Learn Github and Goggle Data Studio to create Activity Reports
 
 ### Work I Did
 
-Documented progress of Cyber projects, scanned Slack Channels and Asana for required information, created tables to be used in the annual report
+Read over ROS material looking for code to use on the BOUS Project. Practiced using google data studio creating reports preping for my assignment. 
 
 ### Meetings
-  - Weekly Friday Review meeting with David
-  - Semi-weekly meetings with Emil (Mon, Thurs)
-  - Met with Tony to go over needs for annual report
-  - All Hands SWX meeting
+  - Kickstart Meeting with Sam and David for the Activity Reports
+  - Weekly Mentor Meeting with David
+  - Met with Megan to learn the WAR info
 
 ### Follow up
 
 - Report on intern/project progress
-- Create website that organizes our past projects
-- Meet with Sam to collect information on SOFWERX projects fo
+- Continue learning Google Data Studio
+- Meet with Sam weekly to see if my Reports fit the business needs
