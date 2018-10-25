@@ -1,4 +1,4 @@
-# Fletchers's Weekly Activity Report - Week 5  (Oct. 19, 2018)
+# Fletchers's Weekly Activity Report - Week 5  (Oct. 25, 2018)
 ### Legend
 - [Objective](#objective)
 - [Work I Did](#work-i-did)
