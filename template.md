@@ -1,6 +1,6 @@
 # Template: Weekly Activity Reports
 MM-DD-YY
-# [Name]'s Weekly Activity Report - Thursday, Month Day, Year
+# [Name]'s Weekly Activity Report - Friday, Month Day, Year
 ### Legend
  - [Objective](#objective)
  - [Work I Did](#work-i-did)
