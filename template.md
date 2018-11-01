@@ -10,11 +10,11 @@ MM-DD-YY
 
 ### Big Three
 
-- First significant accomplishment
+- First significant accomplishment [Jira Ticket Number](URL to the Jira ticket number "Name of the Jira Ticket")
 
-- Second significant accomplishment
+- Second significant accomplishment [Jira Ticket Number](URL to the Jira ticket number "Name of the Jira Ticket")
 
-- Third significant accomplishment
+- Third significant accomplishment [Jira Ticket Number](URL to the Jira ticket number "Name of the Jira Ticket")
 
 ### Objective
 
