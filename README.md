@@ -4,13 +4,14 @@
 ## Projects
 
 - [accounting](accounting) - Accounting intern activities
-- [cpo16](cpo16) - Development activities toward GIS consensus driven standards
+- [devops](devops) - Development activities toward GIS consensus driven standards
 - [cyber](cyber) - Cyber intern activities
 - [cybercity](cybercity) - Cyber Smart City activities
 - [datascience](datascience) - Datascience intern activities
 - [devops](devops) - Infrastructure as code / Development and Operational activities
 - [EE](EE) - Electric Engineering activities
 - [sysadmin](sysadmin) - Sysadmin intern activities
+- [cellar](cellar) - Archived Repos
 
 Please see Mike Ahern if you do not have a directory that matches your scope of work. (events, datasci, etc)
 
