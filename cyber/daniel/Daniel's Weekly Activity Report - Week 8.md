@@ -1,6 +1,6 @@
 Weekly Activity Reports
 Week 8
-# [Name]'s Weekly Activity Report - Thursday, November 1, 2018
+# Daniel's Weekly Activity Report - Thursday, November 1, 2018
 ### Legend
  - [Objective](#objective)
  - [Work I Did](#work-i-did)
