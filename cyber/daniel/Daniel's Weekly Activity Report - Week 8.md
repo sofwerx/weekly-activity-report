@@ -5,7 +5,6 @@ Week 8
  - [Objective](#objective)
  - [Work I Did](#work-i-did)
  - [Meetings](#meetings)
- - [Summary](#summary)
  - [Follow up](#follow-up)
 
 ### Big Three
