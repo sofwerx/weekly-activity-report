@@ -1,19 +1,45 @@
-## Weekly Report
+# Weekly Activity Reports
+11-09-18
+## Rodrigo's Weekly Activity Report - Friday, Nov 9, 2018
+### Legend
+ - [Objective](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Summary](#summary)
+ - [Follow up](#follow-up)
 
-### September Week 4
+### Big Three
 
-  *  Worked wiht Ian to develop script to scan the RF spectrum, identify strongest signal and record that frequency in 10 second intervals.
-  *  
+- Cloned and built OpenSensorHub Repo.
 
-### Objectives
-  -  Optimize HackRF code to incorporate the sweep function and transfer function together.
-  -  Convert HackRF_Sweep tool to library function to use with Android app.
+- Reviewed the available documentation on the OpenSensorHub website.
+
+- Connected an Android Phone to the local OpenSensorHub.
+
+### Objective
+
+Currently working on understanding how to setup sensors on OpenSensorHub.
 
 ### Work I Did
-  -  Combined scripts to get HackRF_Sweep and HackRF_Transfer to work in tandem.
 
-### Follow-up
-  -  NSTR
+Reviewed documentation on OpenSensorHub site.
+Cloned the OpenSensorHub Repo.
+Created local version of the Android app to understand internal operations.
+Connected Android Phone to local OpenSensorHub.
+
 
 ### Meetings
-  -  Interview with Howard Altman, Tampa Bay Times, covering USF's Research and Development Agreement with SOFWERX.
+  - NSR
+
+### Summary/Remarks:
+
+- Summarize your weekly activities in this section
+
+- Summarize what you have learned/gained
+
+- Describe things on which you began to work
+
+
+### Follow up
+
+- Will be working on setting up remote sensors on our local OpenSensorHub.
