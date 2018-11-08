@@ -15,11 +15,11 @@ Week 9
 
 ### Objective
 
-Run benchamrk tests on the Jetson AGX Xavier and finsihed up Cyberville project
+Run benchamrk tests on the Jetson AGX Xavier and wrap up Cyberville project
 
 ### Work I Did
 
-Ran glmark2 benchmark on both the Xavier and TX2 for comparison. Created PechaKucha slides show presentation and set up time to practice.
+Ran glmark2 benchmark on both the Xavier and TX2 for comparison. Created PechaKucha slides show presentation and set up time to practice. Refined SolidWorks drawings of Cyberville project
 
 ### Follow up
 
