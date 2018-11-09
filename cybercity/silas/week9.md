@@ -27,4 +27,4 @@ Contributed to Cyberville documentation, assisted in the transportation and clea
 ### Follow up
 
 - Finish PechKucha 
-- Establish CyberVille2.0 for next set of interns
+- Establish CyberVille2.0 for next set of intern
