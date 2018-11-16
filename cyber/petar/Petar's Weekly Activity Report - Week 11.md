@@ -22,8 +22,7 @@ Finilized the RF Classification Project, and began on colaborating with the remo
  - Thanksgiving Team Builder
 
 ### Follow up
-- Continue reformatting and dataset prepartion
-- Check the programs created to incorporate the model
+- Begin on looking in ways of utilizing a hackRF for sampling real time RF data and incorporating it within the program.
 
 ### References
 - Asana RF Classification Project Goals and Progress - https://app.asana.com/0/793355591065744/list
