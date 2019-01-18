@@ -9,21 +9,15 @@
  - [Follow up](#follow-up)
 
 ### Big Three
-
 -	Familiarized with team members and laid out a skeleton infrastructure for the project.
-
 -	Created Jira issues for each of the initial project tasks as sub-tasks to the MACE-Cyber Track and assigned them to the corresponding intern.
-
 -	Researched and familiarized with relevant project tools including GitHub and Jira.
 
 ### Objective
-
 The cyber track of project MACE is currently geared towards creating a repository of visual and digital resources to identify devices at a location by imaging, network ID, and RF signal, in order to map a location and its relative safety in densely populated urban environments by leveraging existing technologies.
-
 My objective for week one was to lay the groundwork for the remainder of the internship and ensure that each team member felt comfortable and had a direction to go in. As someone new to programming and many of the tools we would be using for the project, I also wanted to familiarize myself with these tools and coding languages before getting lost in the weeds.
 
 ### Work I Did
-
 -	Researched Jira, GitHub, and their integrative capabilities.
 -	Read assigned research article on Determining Hostile Intent in Cyber Space and bookmarked or printed additionally relevant articles on SpotFi and Web-Scrapers
 -	Spoke individually with cyber security interns who worked on site between Monday 01.14.2019 3:00PM and Thursday 01.17.2019 3:00PM and asked them about what they were learning in their degree, why they chose to pursue their degree, what they wanted to do after graduation, and what they hoped to learn from the internship.
@@ -35,23 +29,17 @@ My objective for week one was to lay the groundwork for the remainder of the int
 -	Assigned Jira Sub-Tasks to relevant interns and logged corresponding work on main project task.
 -	Created individual pull requests for named folders containing templates for each cyber security intern’s WAR on GitHub.
 
-
 ### Meetings
 -	Internship Orientation (Jan. 07) : General overview of SOFWERX internship, signing of paperwork, etc. 
 -	Introduction to Project MACE (Jan. 07) : Hosted by Pablo Breuer. Overview of specific project problem (visibility and determination of threat in densely populated urban areas where satellite view is inaccurate or impossible), and ultimate project goal (Military Applications of Cyber Effects). Contributed to meeting by asking clarifying questions regarding access point overload and signal density interference.
 -	Introduction to JIRA (Jan. 15) : Hosted by Mike Ahern. Served as an example of JIRA postings, self-assigned task to set up JIRA dashboard.
 
 ### Summary/Remarks:
-
 - This week laid the basic lines of infrastructure for the internship, beginning with team communication and software / application profiles and familiarity. It was largely admin- and research-oriented and will continue to be so next week.
-
 - I have gained a working knowledge of GitHub and an intermediary knowledge of how to manage projects through Jira. In my weekly SOFWERX research I also learned of several unique applications of short-wave infrared (SWIR) and began to get excited for not only the military applications of cyber effects but also the health and other social effects this research could bring.
-
 - I have started work on researching Web Scrapers and Python, preparing for my portion of the project in creating a database to house product information.
 
-
 ### Follow up
-
 -	Follow up with IT RE: GitHub pull requests.
 -	Make sure Stephanie gets Jira and Jupyter access
 -	Familiarize with Jupyter
