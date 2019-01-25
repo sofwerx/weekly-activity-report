@@ -1,0 +1,49 @@
+# Template: Weekly Activity Reports
+01-17-2019
+# Dane's Weekly Activity Report - Thursday, January 17, 2019
+### Legend
+ - [Objective](#objective)
+ - [Work I Did](#work-i-did)
+ - [Meetings](#meetings)
+ - [Summary](#summary)
+ - [Follow up](#follow-up)
+
+### Big Three
+
+- Setup Email, calendar, Jira, Github, and Jupyter
+
+- Research computer vision 
+
+- Identified Jupyter as the platform that I will work with
+
+### Objective
+
+Identify devices based on images from a Drone - Build database repository with device visual signatures. 
+Create computer vision machine learning algorithm to identify devices.
+
+### Work I Did
+
+I setup all of my accounts.
+
+I began setup of tensorflow on Jupyter.
+
+I met my team.
+
+### Meetings
+
+I met with David to go over project assignments.
+
+### Summary/Remarks:
+
+- Worked to get all of my accounts setup, and familiarize myself with all the tools we have here.
+
+- I learned about Jira, Jupyter, Tensorflow, Computer Vision, and I met most of my teammates.
+
+- I am starting to figure out how to use Jupyter.
+
+
+### Follow up
+
+- I want to figure out what computer vision model I should use.
+
+- I want a plan for how to build an image dataset to train the machine learning model.
